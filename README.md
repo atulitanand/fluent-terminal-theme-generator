@@ -1,1 +1,3 @@
-# fluent-terminal-theme-generator
+# Fluent Terminal Theme Generator
+
+## Steps to generate files
