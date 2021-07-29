@@ -1,0 +1,31 @@
+{
+  "EncodedImage": "",
+  "Name": "Blue Matrix",
+  "Author": "Atulit",
+  "Colors": {
+    "Foreground": "#00a2ff",
+    "Background": "#101116",
+    "Cursor": "#76ff9f",
+    "CursorAccent": "#000000",
+    "Selection": "rgba(255, 255, 255, 0.3)",
+    "SelectionForeground": null,
+    "SelectionBackground": "#c1deff",
+    "Black": "#101116",
+    "Red": "#ff5680",
+    "Green": "#00ff9c",
+    "Yellow": "#fffc58",
+    "Blue": "#00b0ff",
+    "Magenta": "#d57bff",
+    "Cyan": "#76c1ff",
+    "White": "#c7c7c7",
+    "BrightBlack": "#686868",
+    "BrightRed": "#ff6e67",
+    "BrightGreen": "#5ffa68",
+    "BrightYellow": "#fffc67",
+    "BrightBlue": "#6871ff",
+    "BrightMagenta": "#d682ec",
+    "BrightCyan": "#60fdff",
+    "BrightWhite": "#ffffff"
+  },
+  "BackgroundImage": null
+}

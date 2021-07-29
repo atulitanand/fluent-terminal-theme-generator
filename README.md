@@ -1,1 +1,1 @@
-"# fluent-terminal-theme-generator" 
+# fluent-terminal-theme-generator
