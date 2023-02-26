@@ -4,7 +4,7 @@
 
 
 ```bash
-git clone https://github.com/icecoffee-dev/fluent-terminal-theme-generator.git
+git clone https://github.com/atulitanand/fluent-terminal-theme-generator.git
 cd ./fluent-terminal-theme-generator
 node index.js
 ```
